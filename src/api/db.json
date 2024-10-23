@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "price": 25.99
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Headphones",
+      "price": 59.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "4",
+      "name": "Coffee Maker",
+      "price": 49.99
+    },
+    {
+      "id": "9655",
+      "name": "sample",
+      "price": "123"
+    }
+  ]
+}
